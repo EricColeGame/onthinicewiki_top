@@ -161,7 +161,7 @@
           "value": "4.8 / 5.0"
         }
       ],
-      "cta": "Explorar todas las guías"
+      "cta": "Explorar guías de juego"
     },
     "explore": {
       "title": "Explora onthinicewiki",
@@ -399,7 +399,7 @@
     "readMore": "Leer más",
     "officialMedia": "Medios oficiales",
     "home": "Inicio",
-    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+    "noGuidesAvailable": "Aún no hay guías disponibles en esta sección."
   },
   "footer": {
     "aboutTitle": "On Thin Ice Wiki",
