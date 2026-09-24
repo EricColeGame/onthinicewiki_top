@@ -6,7 +6,14 @@
     "description": "Explore On Thin Ice Wiki with gameplay guides, beginner tips, mechanics, updates, and useful resources to help players understand the game.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "puzzles": "Puzzles",
+    "chapters": "Chapters",
+    "game": "Game",
+    "reviews": "Reviews",
+    "media": "Media"
+  },
   "home": {
     "meta": {
       "title": "On Thin Ice Wiki - Guides, Tips & Gameplay",
@@ -377,7 +384,6 @@
       "secondary": "Play On Thin Ice"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -408,10 +414,34 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Game Tools",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Game Mechanics",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Walkthroughs",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "walkthroughGuide": "Walkthroughs",
+    "puzzlesGuide": "Puzzle Solutions",
+    "chaptersGuide": "All Chapters"
+  },
+  "guide": {
+    "overviewTitle": "On Thin Ice Walkthrough & Guides",
+    "overviewDescription": "Comprehensive chapter-by-chapter walkthroughs, beginner strategies, and complete gameplay solutions for On Thin Ice."
+  },
+  "puzzles": {
+    "overviewTitle": "On Thin Ice Puzzle Solutions",
+    "overviewDescription": "Step-by-step puzzle solutions, locker combinations, elevator sequences, and hard drive cipher codes for On Thin Ice."
+  },
+  "chapters": {
+    "overviewTitle": "On Thin Ice Chapters & Episodes",
+    "overviewDescription": "Complete breakdown and progression guides across all four core chapters and bonus episodes in On Thin Ice."
+  },
+  "game": {
+    "overviewTitle": "On Thin Ice Game Info & Mechanics",
+    "overviewDescription": "Essential game overview, developer background from Haiku Games, and core mystery escape room mechanics for On Thin Ice."
+  },
+  "reviews": {
+    "overviewTitle": "On Thin Ice Reviews & Ending Explained",
+    "overviewDescription": "In-depth reviews, full plot summaries, character revelations, and ending explained for Adventure Escape: On Thin Ice."
+  },
+  "media": {
+    "overviewTitle": "On Thin Ice Media, Trailers & Community",
+    "overviewDescription": "Official video trailers, character profiles, gameplay videos, release dates, and community discussion links for On Thin Ice."
   }
 }
