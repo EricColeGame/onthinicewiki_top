@@ -6,7 +6,14 @@
     "description": "Explore On Thin Ice Wiki with gameplay guides, beginner tips, mechanics, updates, and useful resources to help players understand the game.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "puzzles": "Puzzles",
+    "chapters": "Chapters",
+    "game": "Game",
+    "reviews": "Reviews",
+    "media": "Media"
+  },
   "home": {
     "meta": {
       "title": "On Thin Ice Wiki - Guides, Tips & Gameplay",
@@ -385,7 +392,6 @@
       "secondary": "Play On Thin Ice"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -415,11 +421,65 @@
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Game Tools",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Game Mechanics",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Walkthroughs",
+    "beginnerGuide": "Game Walkthrough",
+    "raceGuides": "Puzzle Solutions",
+    "bossGuides": "Chapter Guides",
+    "buildGuide": "Game Mechanics",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "meta": {
+      "title": "On Thin Ice Walkthrough & Strategy Guides | On Thin Ice Wiki",
+      "description": "Comprehensive walkthroughs and strategic puzzle-solving guides for On Thin Ice across all investigation chapters."
+    },
+    "overviewTitle": "Walkthrough & Guide",
+    "overviewDescription": "Comprehensive walkthroughs and strategic puzzle-solving guides for On Thin Ice across all investigation chapters.",
+    "guidesTitle": "Walkthrough Guides"
+  },
+  "puzzles": {
+    "meta": {
+      "title": "On Thin Ice Puzzle Solutions & Locker Codes | On Thin Ice Wiki",
+      "description": "Step-by-step puzzle solutions, safe combinations, elevator puzzles, and locker codes for On Thin Ice."
+    },
+    "overviewTitle": "Puzzle Solutions & Codes",
+    "overviewDescription": "Step-by-step puzzle solutions, safe combinations, elevator puzzles, and locker codes for On Thin Ice.",
+    "guidesTitle": "Puzzle Guides"
+  },
+  "chapters": {
+    "meta": {
+      "title": "On Thin Ice Chapters & Story Progression | On Thin Ice Wiki",
+      "description": "Detailed chapter-by-chapter breakdowns, investigation milestones, and story acts in On Thin Ice."
+    },
+    "overviewTitle": "Chapter Progression",
+    "overviewDescription": "Detailed chapter-by-chapter breakdowns, investigation milestones, and story acts in On Thin Ice.",
+    "guidesTitle": "Chapter Guides"
+  },
+  "game": {
+    "meta": {
+      "title": "On Thin Ice Overview & Game Features | On Thin Ice Wiki",
+      "description": "Learn about On Thin Ice game mechanics, Adventure Escape Mysteries series background, and gameplay overview."
+    },
+    "overviewTitle": "Game Overview & Mechanics",
+    "overviewDescription": "Learn about On Thin Ice game mechanics, Adventure Escape Mysteries series background, and gameplay overview.",
+    "guidesTitle": "Game Guides"
+  },
+  "reviews": {
+    "meta": {
+      "title": "On Thin Ice Plot, Endings & Game Reviews | On Thin Ice Wiki",
+      "description": "Explore the storyline, ending explanations, plot summaries, and critical reviews for On Thin Ice."
+    },
+    "overviewTitle": "Reviews & Plot Analysis",
+    "overviewDescription": "Explore the storyline, ending explanations, plot summaries, and critical reviews for On Thin Ice.",
+    "guidesTitle": "Review Articles"
+  },
+  "media": {
+    "meta": {
+      "title": "On Thin Ice Characters, Trailers & Media | On Thin Ice Wiki",
+      "description": "Character profiles, trailers, gameplay videos, and community discussions for On Thin Ice."
+    },
+    "overviewTitle": "Media & Community",
+    "overviewDescription": "Character profiles, trailers, gameplay videos, and community discussions for On Thin Ice.",
+    "guidesTitle": "Media Articles"
   }
 }
