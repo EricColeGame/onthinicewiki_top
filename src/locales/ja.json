@@ -1,1 +1,485 @@
-{}
+{
+  "site": {
+    "name": "On Thin Ice Wiki",
+    "shortName": "On Thin Ice",
+    "tagline": "捜査攻略・チャプターガイド＆パズル解答",
+    "description": "『On Thin Ice（オン・シン・アイス）』の総合攻略データベース。各チャプターの攻略チャート、パズル解答、端末の暗号解読、証拠管理を詳しく解説。",
+    "legalNotice": "On Thin Ice Wiki はファン制作の非公式攻略サイトです。ゲーム内のアセットや商標は各権利者に帰属します。"
+  },
+  "nav": {
+    "guide": "Guide",
+    "puzzles": "Puzzles",
+    "chapters": "Chapters",
+    "game": "Game",
+    "reviews": "Reviews",
+    "media": "Media"
+  },
+  "home": {
+    "meta": {
+      "title": "On Thin Ice Wiki - 攻略・ヒント・ゲーム情報",
+      "description": "『On Thin Ice』の総合攻略Wiki。ゲームプレイガイド、初心者向けヒント、パズル攻略、最新アップデート情報をお届けします。"
+    },
+    "hero": {
+      "eyebrow": "謎解きアドベンチャー攻略Wiki",
+      "title": "On Thin Ice Wiki",
+      "description": "『On Thin Ice』の完全攻略Wiki。ゲームの進行ガイド、初心者向けヒント、パズルの解き方、最新情報を網羅。",
+      "stats": [
+        "総アクセス数",
+        "掲載アイテム",
+        "公開コード",
+        "毎日更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "ゲームガイド",
+      "tertiaryCta": "暗号コード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "On Thin Ice 捜査の第一歩",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者向けガイド",
+          "description": "ケイト・グレイ刑事の基本捜査フロー、端末のデータ復旧、最初の現場での証拠管理をマスターしましょう。"
+        },
+        {
+          "number": "2",
+          "title": "パズル攻略と暗号コード",
+          "description": "キーパッドの暗号、氷のスライドパズル、電子回路の接続、ロッカー番号の解読ロジックを解説。"
+        },
+        {
+          "number": "3",
+          "title": "アイテム＆ツール一覧",
+          "description": "吹雪に閉ざされた事件現場に散らばるツール、チップリーダー、配線部品、隠された鍵の入手場所を網羅。"
+        },
+        {
+          "number": "4",
+          "title": "チャプター別攻略チャート",
+          "description": "チャプター1の警察署サイバー攻撃から最終対決まで、事件解決の全ステップを詳細にナビゲート。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目の攻略情報",
+      "quickLinks": [
+        "チャプター1 攻略",
+        "パズル解答集",
+        "キーパッド暗号",
+        "ケイト・グレイの謎"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者向けガイド",
+          "description": "ケイト・グレイの基本捜査システム、証拠収集、端末ロック解除の手順を解説。",
+          "href": "/guide/on-thin-ice-guide"
+        },
+        {
+          "badge": "攻略チャート",
+          "title": "チャプター1 攻略チャート",
+          "description": "署内のサイバー侵害、除雪機の修理、ハックソーの山小屋捜索までの完全攻略。",
+          "href": "/guide/on-thin-ice-chapter-1-walkthrough"
+        },
+        {
+          "badge": "パズル",
+          "title": "三角回路パズル解答",
+          "description": "欠けた3つの三角タイルを見つけ出し、電流を黄色のノードへ正しく導く方法。",
+          "href": "/puzzles/on-thin-ice-triangulate-puzzle"
+        },
+        {
+          "badge": "暗号",
+          "title": "ハードドライブ暗号コード",
+          "description": "容疑者ボードのヒントから導き出す6桁の暗号でケイトの証拠ドライブを復号。",
+          "href": "/puzzles/on-thin-ice-hard-drive-code"
+        },
+        {
+          "badge": "パズル",
+          "title": "氷の階段スライドパズル",
+          "description": "滑る床を慎重に進み、番号付きの氷ブロックを目的の位置へスライドさせるコツ。",
+          "href": "/puzzles/on-thin-ice-ice-stairway-puzzle"
+        },
+        {
+          "badge": "ガイド",
+          "title": "エレベーター＆警備ロボット攻略",
+          "description": "ツールを回収して銅線シャントを作成し、チャプター2の高層警備ロボを停止させる手順。",
+          "href": "/puzzles/on-thin-ice-elevator-puzzle"
+        },
+        {
+          "badge": "ストーリー",
+          "title": "ケイト・グレイ事件の背景考察",
+          "description": "脅迫組織の陰謀、登場人物の動機、ストーリーの深層を徹底解説。",
+          "href": "/game/on-thin-ice-adventure-escape"
+        },
+        {
+          "badge": "パズル",
+          "title": "ロッカー暗号の解読法",
+          "description": "チャプター3で訪問者記録帳を分析し、ダンの留置所ロッカーを開ける手順。",
+          "href": "/puzzles/on-thin-ice-locker-code"
+        },
+        {
+          "badge": "全体攻略",
+          "title": "全チャプター完全攻略",
+          "description": "すべての所持アイテム、暗号コード、実績獲得を網羅した包括的ウォークスルー。",
+          "href": "/guide/on-thin-ice-walkthrough"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "『On Thin Ice』とは？",
+      "paragraphs": [
+        "『On Thin Ice（オン・シン・アイス）』は、Haiku Gamesが手がける人気アドベンチャーシリーズ『Adventure Escape Mysteries』の一作として高い評価を受けるポイント＆クリック型ミステリーパズルゲームです。プレイヤーはケイト・グレイ刑事およびマーフィー刑事となり、警察署全体を機能停止に陥れた恐るべきランサムウェア攻撃と殺人事件の捜査に挑みます。",
+        "猛烈なブリザードによって孤立した状況下で、ケイトは現場検証を進め、複雑な電子セキュリティロックを解除し、時間が尽きる前に警察内部の内通者と凶悪なサイバー脅迫組織の正体を暴き出さなければなりません。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Haiku Games"
+        },
+        {
+          "label": "対応機種",
+          "value": "iOS, Android, PC"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ミステリーアドベンチャー"
+        },
+        {
+          "label": "シリーズ",
+          "value": "AE Mysteries"
+        },
+        {
+          "label": "主人公",
+          "value": "ケイト・グレイ"
+        },
+        {
+          "label": "チャプター数",
+          "value": "全4チャプター"
+        }
+      ],
+      "cta": "攻略ガイドを見る"
+    },
+    "explore": {
+      "title": "On Thin Ice Wiki を探索する",
+      "description": "チャプター別攻略チャート、パズル解読、証拠チェックリスト、コミュニティガイドを網羅した総合捜査ハブ。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "On Thin Ice 初心者ガイド",
+          "description": "基本のゲーム進行、操作方法、目的、初心者が最初に押さえるべき重要ステップを解説。序盤のミスを防ぎスムーズな捜査をサポートします。",
+          "href": "/guide/on-thin-ice-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "事件現場を隅々まで調べ、隠されたアイテムやツールを見つけ出す"
+            },
+            {
+              "label": "2",
+              "detail": "チップリーダーなどの重要部品を回収しロックされた捜査端末を起動する"
+            },
+            {
+              "label": "3",
+              "detail": "庭の機械類を組み立てて雪に埋もれた障害物や危険箇所を取り除く"
+            },
+            {
+              "label": "4",
+              "detail": "容疑者ボードと捜査メモを照合してセキュリティキーパッドの暗号を解読する"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "On Thin Ice ゲームプレイガイド",
+          "description": "ゲームの主要システムや実践的な謎解き戦略を解説。捜査手順、アイテム活用法、進行に必要な基礎知識を提供します。",
+          "href": "/game/on-thin-ice-adventure-escape",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "鑑識捜査",
+              "detail": "現場の細かな数字や傷、記号などの手がかりを入念に観察する"
+            },
+            {
+              "label": "所持品管理",
+              "detail": "ケーブルやリーダー、鍵などの複数パーツを適切に組み合わせる"
+            },
+            {
+              "label": "論理パズル",
+              "detail": "星ヒントを使わずに回路の電流ルート構築や氷のスライドを解く"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "On Thin Ice 暗号・パスコード",
+          "description": "ゲーム内で登場するキーパッド暗号、金庫の組み合わせ、端末パスコードの解答まとめ。",
+          "href": "/puzzles/on-thin-ice-hard-drive-code",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "63849",
+              "detail": "警察署デスク端末 ― 5桁のワークステーション解除パスコード"
+            },
+            {
+              "label": "40827",
+              "detail": "山小屋キーパッド ― 隠れ家の正面ドア金属プレートの数字順"
+            },
+            {
+              "label": "9416",
+              "detail": "床下の金庫 ― 山小屋寝室のタトゥー印から導く組み合わせ"
+            },
+            {
+              "label": "211012",
+              "detail": "証拠ハードドライブ ― 容疑者ボードの色分け暗号解読コード"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "On Thin Ice チャプター情報",
+          "description": "ストーリーの各チャプターのあらすじ、舞台設定、重要なマイルストーンを整理。",
+          "href": "/chapters/on-thin-ice-chapter-1",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "チャプター1",
+              "detail": "警察署のサイバー攻撃と山小屋での銃撃戦捜査"
+            },
+            {
+              "label": "チャプター2",
+              "detail": "ハイテク企業ビルへの潜入と警備ロボットの無力化"
+            },
+            {
+              "label": "チャプター3",
+              "detail": "留置場エリアの封鎖解除とダンのロッカー暗号解読"
+            },
+            {
+              "label": "チャプター4",
+              "detail": "猛吹雪の雪山からの脱出と脅迫組織黒幕との対決"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "On Thin Ice 攻略のコツとヒント",
+          "description": "難関パズルを素早く解くためのテクニックや進行のヒントをまとめたアドバイス集。",
+          "href": "/puzzles/on-thin-ice-puzzle",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "アイテムを使用する前に現場の端々まで観察して見落としを防ぐ"
+            },
+            {
+              "label": "A",
+              "detail": "複雑な回転回路や氷スライドは一度画面を抜けると初期状態に即リセット可能"
+            },
+            {
+              "label": "B",
+              "detail": "会話中の「最初」「中央」「最後」など強調された言葉をメモしておく"
+            },
+            {
+              "label": "C",
+              "detail": "星ヒントは複数の手順が絡み合うチャプター終盤の難所に温存する"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "On Thin Ice 重要アイテムガイド",
+          "description": "捜査に必須となるキーアイテム、回路パーツ、収集物の入手場所と用途一覧。",
+          "href": "/puzzles/on-thin-ice-triangulate-puzzle",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "三角タイル",
+              "detail": "山小屋の金庫・車・郵便受けから回収する3つの回路ピース"
+            },
+            {
+              "label": "ロックピン",
+              "detail": "カンヌキ錠をバイパスして山小屋裏口のドアを開けるピン"
+            },
+            {
+              "label": "コンデンサ",
+              "detail": "天井のシャンデリア器具から取り出す高圧サージ対応部品"
+            },
+            {
+              "label": "ハードディスク",
+              "detail": "脅迫組織の正体と防犯映像が記録された暗号化証拠ドライブ"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "On Thin Ice コミュニティ",
+          "description": "公式コミュニティチャンネルやプレイヤー同士の情報交換場所の案内。",
+          "href": "/media/on-thin-ice-reddit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reddit",
+              "detail": "r/AdventureEscape でパズルの解法やストーリー考察を議論"
+            },
+            {
+              "label": "Discord",
+              "detail": "パズルのヒントや質問ができる公式 Haiku Games コミュニティ"
+            },
+            {
+              "label": "YouTube",
+              "detail": "全チャプターの動画解説やスムーズなクリア手順をチェック"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "On Thin Ice よくある質問（FAQ）",
+          "description": "ゲームの遊び方、対応プラットフォーム、トラブルシューティングに関する基本回答。",
+          "href": "/game/on-thin-ice-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "対応機種",
+              "detail": "Adventure Escape Mysteries 内にて iOS、Android、PC でプレイ可能"
+            },
+            {
+              "label": "星ヒント",
+              "detail": "星を使ってヒントを確認したり難易度の高いパズルをスキップ可能"
+            },
+            {
+              "label": "セーブ仕様",
+              "detail": "チャプターの進行節目ごとに連携アカウントへ自動保存される"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "『On Thin Ice』に関する代表的な疑問とその回答。",
+      "items": [
+        {
+          "question": "『On Thin Ice』とはどのようなゲームですか？開発元はどこですか？",
+          "answer": "『On Thin Ice』は、Haiku Gamesが『Adventure Escape Mysteries』アプリ内の独立した冒険として開発したミステリーアドベンチャー・脱出パズルゲームです。プレイヤーはケイト・グレイ刑事となり、警察署へのサイバー攻撃と殺人事件を捜査します。"
+        },
+        {
+          "question": "『On Thin Ice』にはいくつのチャプターがありますか？",
+          "answer": "『On Thin Ice』は全4チャプターで構成されており、攻撃を受けた警察署やハックソーの山小屋からハイテク高層ビル、雪山の大自然まで舞台が展開します。"
+        },
+        {
+          "question": "パズルが解けなくなって詰まった場合はどうすればよいですか？",
+          "answer": "回転回路や氷のスライドパズルで盤面が分からなくなった場合、一度パズル画面を抜けることで進行状況を失わずに盤面を初期状態にリセットできます。"
+        },
+        {
+          "question": "『On Thin Ice』の暗号コードやパズル解答はどこで見られますか？",
+          "answer": "当Wikiでは、山小屋キーパッド（40827）やハードドライブ（211012）をはじめ、全チャプターのキーパッド、金庫、端末、ロッカーの暗号解答を掲載しています。"
+        },
+        {
+          "question": "『On Thin Ice』は無料で遊べますか？",
+          "answer": "はい、『Adventure Escape Mysteries』を通じて iOS、Android、PC で無料でダウンロードしてプレイ可能です（ヒント用の星は任意購入またはゲーム内入手）。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "『On Thin Ice』の捜査を始めましょう",
+      "description": "最初の事件現場から最後の対決まで、丁寧なステップバイステップ攻略があなたの事件解決をサポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "ゲームをプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "activeCodes": "暗号コード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "ゲームをプレイ",
+    "inThisSection": "このセクションの記事",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "このセクションにはまだガイドがありません。"
+  },
+  "footer": {
+    "aboutTitle": "On Thin Ice Wiki",
+    "about": "On Thin Ice Wiki は、進行ルート、ウォークスルー、謎解きメカニクス、重要情報を網羅したファン制作の独立攻略ハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "攻略ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 On Thin Ice Wiki. ゲーム開発者・権利者とは一切関係ありません。",
+    "description": "『On Thin Ice』の完全ファンWiki＆攻略ハブ。",
+    "playGame": "On Thin Ice をプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "ゲームツール",
+    "beginnerGuide": "全体攻略チャート",
+    "raceGuides": "パズル解答集",
+    "bossGuides": "チャプターガイド",
+    "buildGuide": "ゲームシステム",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "meta": {
+      "title": "On Thin Ice 攻略チャート＆捜査ガイド | On Thin Ice Wiki",
+      "description": "『On Thin Ice』全チャプターの詳細な捜査手順と攻略チャートを徹底解説。"
+    },
+    "overviewTitle": "攻略チャート＆ガイド",
+    "overviewDescription": "『On Thin Ice』全チャプターの詳細な捜査手順と攻略チャートを徹底解説。",
+    "guidesTitle": "攻略ガイド一覧"
+  },
+  "puzzles": {
+    "meta": {
+      "title": "On Thin Ice パズル解答＆ロッカー暗号 | On Thin Ice Wiki",
+      "description": "金庫の番号、エレベーターの謎、ロッカー暗号など『On Thin Ice』のパズル解答まとめ。"
+    },
+    "overviewTitle": "パズル解答＆暗号コード",
+    "overviewDescription": "金庫の番号、エレベーターの謎、ロッカー暗号など『On Thin Ice』のパズル解答まとめ。",
+    "guidesTitle": "パズルガイド一覧"
+  },
+  "chapters": {
+    "meta": {
+      "title": "On Thin Ice チャプター攻略＆ストーリー進行 | On Thin Ice Wiki",
+      "description": "『On Thin Ice』のチャプター別ストーリー進行と捜査マイルストーンの解説。"
+    },
+    "overviewTitle": "チャプター進行",
+    "overviewDescription": "『On Thin Ice』のチャプター別ストーリー進行と捜査マイルストーンの解説。",
+    "guidesTitle": "チャプターガイド一覧"
+  },
+  "game": {
+    "meta": {
+      "title": "On Thin Ice ゲーム概要＆システム解説 | On Thin Ice Wiki",
+      "description": "『On Thin Ice』のゲームシステム、AE Mysteries シリーズの背景、遊び方の基本を紹介。"
+    },
+    "overviewTitle": "ゲーム概要＆システム",
+    "overviewDescription": "『On Thin Ice』のゲームシステム、AE Mysteries シリーズの背景、遊び方の基本を紹介。",
+    "guidesTitle": "ゲームガイド一覧"
+  },
+  "reviews": {
+    "meta": {
+      "title": "On Thin Ice ストーリー考察＆レビュー | On Thin Ice Wiki",
+      "description": "『On Thin Ice』のストーリーあらすじ、結末の解説、ゲームの評価・レビュー。"
+    },
+    "overviewTitle": "レビュー＆ストーリー考察",
+    "overviewDescription": "『On Thin Ice』のストーリーあらすじ、結末の解説、ゲームの評価・レビュー。",
+    "guidesTitle": "レビュー記事一覧"
+  },
+  "media": {
+    "meta": {
+      "title": "On Thin Ice キャラクター・動画・メディア | On Thin Ice Wiki",
+      "description": "『On Thin Ice』の登場人物紹介、公式予告トレイラー、動画、コミュニティ情報。"
+    },
+    "overviewTitle": "メディア＆コミュニティ",
+    "overviewDescription": "『On Thin Ice』の登場人物紹介、公式予告トレイラー、動画、コミュニティ情報。",
+    "guidesTitle": "メディア記事一覧"
+  }
+}

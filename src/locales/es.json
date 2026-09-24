@@ -1,1 +1,485 @@
-{}
+{
+  "site": {
+    "name": "On Thin Ice Wiki",
+    "shortName": "On Thin Ice",
+    "tagline": "Guías de investigación, capítulos y soluciones de acertijos",
+    "description": "Base de datos completa de On Thin Ice, con guías paso a paso de cada capítulo, soluciones de acertijos, códigos de terminales y seguimiento de pruebas.",
+    "legalNotice": "On Thin Ice Wiki es un sitio de guías independiente hecho por fans. Todos los recursos del juego y marcas comerciales pertenecen a sus respectivos dueños."
+  },
+  "nav": {
+    "guide": "Guía",
+    "puzzles": "Acertijos",
+    "chapters": "Capítulos",
+    "game": "Juego",
+    "reviews": "Reseñas",
+    "media": "Medios"
+  },
+  "home": {
+    "meta": {
+      "title": "On Thin Ice Wiki - Guías, trucos y jugabilidad",
+      "description": "Explora On Thin Ice Wiki con guías de juego, consejos para principiantes, soluciones de acertijos, mecánicas y recursos actualizados."
+    },
+    "hero": {
+      "eyebrow": "Wiki de aventura e investigación",
+      "title": "On Thin Ice Wiki",
+      "description": "Wiki completa de On Thin Ice con guías de progreso, consejos para principiantes, mecánicas, acertijos y actualizaciones del juego.",
+      "stats": [
+        "Visitas totales",
+        "Objetos disponibles",
+        "Códigos activos",
+        "Actualizaciones diarias"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guías del juego",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Comienza aquí",
+      "title": "Tu aventura en On Thin Ice",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Domina el bucle de investigación de la detective Kate Gray, el análisis de terminales y la gestión de pruebas desde la primera escena."
+        },
+        {
+          "number": "2",
+          "title": "Acertijos y códigos",
+          "description": "Aprende la lógica esencial tras los teclados numéricos, bloques de hielo deslizantes, circuitos eléctricos y códigos de taquillas."
+        },
+        {
+          "number": "3",
+          "title": "Lista de objetos y herramientas",
+          "description": "Encuentra cada herramienta perdida, lector de chips, componente de cableado y llave oculta en las escenas de crimen nevadas."
+        },
+        {
+          "number": "4",
+          "title": "Guías paso a paso por capítulo",
+          "description": "Sigue los pasos de investigación desde el ciberataque a la comisaría en el Capítulo 1 hasta la confrontación final."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Guía Capítulo 1",
+        "Soluciones de acertijos",
+        "Códigos de teclado",
+        "Misterio de Kate Gray"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Domina las mecánicas de investigación, recolección de pruebas y desbloqueo de terminales de Kate Gray.",
+          "href": "/guide/on-thin-ice-guide"
+        },
+        {
+          "badge": "Paso a paso",
+          "title": "Guía del Capítulo 1",
+          "description": "Guía completa a través de la brecha cibernética de la comisaría, la reparación del quitanieves y la cabaña de Hacksaw.",
+          "href": "/guide/on-thin-ice-chapter-1-walkthrough"
+        },
+        {
+          "badge": "Acertijos",
+          "title": "Acertijo del circuito triangular",
+          "description": "Encuentra las tres piezas triangulares y conduce la corriente eléctrica hasta el nodo amarillo.",
+          "href": "/puzzles/on-thin-ice-triangulate-puzzle"
+        },
+        {
+          "badge": "Códigos",
+          "title": "Código del disco duro",
+          "description": "Descifra el disco de pruebas bloqueado con la combinación exacta de seis dígitos del tablero de sospechosos.",
+          "href": "/puzzles/on-thin-ice-hard-drive-code"
+        },
+        {
+          "badge": "Acertijos",
+          "title": "Acertijo de escalones de hielo",
+          "description": "Muévete por el terreno resbaladizo y desliza los bloques de hielo numerados hacia sus casillas correspondientes.",
+          "href": "/puzzles/on-thin-ice-ice-stairway-puzzle"
+        },
+        {
+          "badge": "Guía",
+          "title": "Ascensor y robot de recepción",
+          "description": "Extrae herramientas, fabrica un puente de alambre de cobre y desactiva el guardia robótico en el Capítulo 2.",
+          "href": "/puzzles/on-thin-ice-elevator-puzzle"
+        },
+        {
+          "badge": "Misterio",
+          "title": "Resumen de la trama de Kate Gray",
+          "description": "Análisis en profundidad del complot de extorsión del sindicato, motivos de los personajes y trasfondo narrativo.",
+          "href": "/game/on-thin-ice-adventure-escape"
+        },
+        {
+          "badge": "Acertijos",
+          "title": "Solución del código de taquilla",
+          "description": "Análisis paso a paso del libro de visitas para abrir la taquilla de Dan en el Capítulo 3.",
+          "href": "/puzzles/on-thin-ice-locker-code"
+        },
+        {
+          "badge": "Paso a paso",
+          "title": "Guía completa del juego",
+          "description": "Recorrido integral capítulo a capítulo con todos los objetos de inventario, códigos y logros.",
+          "href": "/guide/on-thin-ice-walkthrough"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es On Thin Ice?",
+      "paragraphs": [
+        "On Thin Ice es una aclamada aventura de misterio y acertijos de lógica tipo point-and-click desarrollada por Haiku Games como parte de la serie Adventure Escape Mysteries. Los jugadores siguen a la detective Kate Gray y al detective Murphy cuando una noche normal se ve interrumpida por un ataque de ransomware devastador que compromete a todo el departamento de policía.",
+        "Atrapada en medio de una ventisca invernal paralizante, Kate debe examinar escenas de crimen forenses, descifrar complejos cierres electrónicos de seguridad y desenmascarar un letal sindicato de extorsión cibernética junto a un topo interno antes de que se agote el tiempo."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Haiku Games"
+        },
+        {
+          "label": "Plataformas",
+          "value": "iOS, Android, PC"
+        },
+        {
+          "label": "Género",
+          "value": "Aventura de misterio"
+        },
+        {
+          "label": "Serie",
+          "value": "AE Mysteries"
+        },
+        {
+          "label": "Protagonista",
+          "value": "Kate Gray"
+        },
+        {
+          "label": "Capítulos",
+          "value": "4 capítulos completos"
+        }
+      ],
+      "cta": "Explorar guías de juego"
+    },
+    "explore": {
+      "title": "Explorar On Thin Ice Wiki",
+      "description": "Centro completo de investigación de On Thin Ice con guías por capítulo, descifradores de acertijos, listas de pruebas y guías comunitarias.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de On Thin Ice",
+          "description": "Este módulo explica el ciclo básico de juego, controles, objetivos y primeros pasos clave para nuevos jugadores. Ayuda a comenzar con buen pie y evitar errores comunes al inicio.",
+          "href": "/guide/on-thin-ice-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Inspecciona a fondo los escenarios para hallar objetos interactivos y herramientas ocultas"
+            },
+            {
+              "label": "2",
+              "detail": "Recupera pistas de hardware como lectores de chips para encender terminales de investigación"
+            },
+            {
+              "label": "3",
+              "detail": "Despeja obstáculos de nieve y peligros usando maquinaria ensamblada en el patio"
+            },
+            {
+              "label": "4",
+              "detail": "Cruza los datos del tablero de sospechosos para descifrar teclados de seguridad"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de jugabilidad de On Thin Ice",
+          "description": "Cubre las mecánicas centrales, sistemas de juego y estrategias prácticas para investigar con eficacia.",
+          "href": "/game/on-thin-ice-adventure-escape",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Forense",
+              "detail": "Examina escenas dibujadas a mano en busca de números sutiles, marcas y símbolos"
+            },
+            {
+              "label": "Inventario",
+              "detail": "Combina componentes de varias partes como cables, lectores y llaves"
+            },
+            {
+              "label": "Lógica",
+              "detail": "Dirige corrientes en circuitos y resuelve bloques de hielo sin gastar estrellas de pistas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Códigos de On Thin Ice",
+          "description": "Módulo con las soluciones de contraseñas de terminales, teclados numéricos y cajas fuertes del juego.",
+          "href": "/puzzles/on-thin-ice-hard-drive-code",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "63849",
+              "detail": "Terminal de la comisaría — Código de cinco dígitos para desbloquear la estación"
+            },
+            {
+              "label": "40827",
+              "detail": "Teclado de la cabaña — Secuencia de números en la placa de la puerta del refugio"
+            },
+            {
+              "label": "9416",
+              "detail": "Caja fuerte bajo el suelo — Combinación basada en las marcas de tatuajes del dormitorio"
+            },
+            {
+              "label": "211012",
+              "detail": "Disco duro de pruebas — Código de descifrado codificado por colores del tablero"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Actualizaciones y capítulos de On Thin Ice",
+          "description": "Detalles narrativos de cada capítulo, ambientación e hitos de investigación.",
+          "href": "/chapters/on-thin-ice-chapter-1",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Capítulo 1",
+              "detail": "Brecha cibernética en la comisaría e investigación del tiroteo en la cabaña"
+            },
+            {
+              "label": "Capítulo 2",
+              "detail": "Infiltración en la torre corporativa y confrontación con el robot guardián"
+            },
+            {
+              "label": "Capítulo 3",
+              "detail": "Cierre del ala de celdas y descifrado de la taquilla de Dan"
+            },
+            {
+              "label": "Capítulo 4",
+              "detail": "Escape por la montaña nevada y desenlace frente al cerebro del sindicato"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Consejos y trucos de On Thin Ice",
+          "description": "Estrategias avanzadas y técnicas para resolver acertijos complejos sin atascarse.",
+          "href": "/puzzles/on-thin-ice-puzzle",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Inspecciona cada borde del entorno antes de usar objetos para no perder pistas"
+            },
+            {
+              "label": "A",
+              "detail": "Sal del acertijo para reiniciar al instante los tableros de circuitos o bloques de hielo"
+            },
+            {
+              "label": "B",
+              "detail": "Anota palabras destacadas en diálogos como PRIMERO, CENTRAL o ÚLTIMO para diales"
+            },
+            {
+              "label": "C",
+              "detail": "Reserva las pistas de estrellas exclusivamente para los clímax no lineales de cada capítulo"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de objetos de On Thin Ice",
+          "description": "Organiza los objetos clave, herramientas, componentes de circuitos y coleccionables del juego.",
+          "href": "/puzzles/on-thin-ice-triangulate-puzzle",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Triángulos",
+              "detail": "Tres piezas de circuito recuperadas en la caja fuerte, el auto y el buzón"
+            },
+            {
+              "label": "Ganzúa",
+              "detail": "Evita los cerrojos y abre las puertas traseras de la cabaña"
+            },
+            {
+              "label": "Condensador",
+              "detail": "Componente para picos de alta tensión extraído de la lámpara de techo"
+            },
+            {
+              "label": "Disco duro",
+              "detail": "Disco de pruebas cifrado con identidades del ransomware y grabaciones"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Comunidad de On Thin Ice",
+          "description": "Canales oficiales de la comunidad y plataformas de debate para jugadores.",
+          "href": "/media/on-thin-ice-reddit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reddit",
+              "detail": "Únete a r/AdventureEscape para debatir acertijos y teorías de la historia"
+            },
+            {
+              "label": "Discord",
+              "detail": "Servidor oficial de la comunidad de Haiku Games para ayuda en acertijos"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Vídeos paso a paso y rutas rápidas para superar todos los capítulos"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Preguntas frecuentes de On Thin Ice",
+          "description": "Respuestas a dudas habituales sobre jugabilidad, compatibilidad y resolución de problemas.",
+          "href": "/game/on-thin-ice-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plataformas",
+              "detail": "Disponible en iOS, Android y PC a través de Adventure Escape Mysteries"
+            },
+            {
+              "label": "Pistas",
+              "detail": "Las estrellas permiten obtener pistas o saltarse acertijos especialmente difíciles"
+            },
+            {
+              "label": "Guardado",
+              "detail": "El progreso se guarda automáticamente por capítulo en cuentas vinculadas"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre On Thin Ice.",
+      "items": [
+        {
+          "question": "¿Qué es On Thin Ice y quién lo desarrolló?",
+          "answer": "On Thin Ice es un juego de misterio, aventura y acertijos de escape desarrollado por Haiku Games como una historia independiente dentro de Adventure Escape Mysteries. Los jugadores controlan a la detective Kate Gray mientras investiga un ciberataque y un homicidio en el departamento."
+        },
+        {
+          "question": "¿Cuántos capítulos tiene On Thin Ice?",
+          "answer": "On Thin Ice cuenta con 4 capítulos completos de historia que llevan a los jugadores desde la comisaría intervenida y la cabaña aislada de Hacksaw hasta una torre corporativa y un entorno montañoso helado."
+        },
+        {
+          "question": "¿Qué debo hacer si me quedo atascado en un acertijo de On Thin Ice?",
+          "answer": "Si un circuito o acertijo de bloques de hielo se desordena en On Thin Ice, sal de la pantalla del acertijo para reiniciar el tablero a su diseño inicial sin perder tu avance en el capítulo."
+        },
+        {
+          "question": "¿Dónde puedo encontrar los códigos y soluciones de On Thin Ice?",
+          "answer": "Nuestra Wiki de On Thin Ice ofrece soluciones verificadas para teclados numéricos, cajas fuertes, terminales y taquillas en cada capítulo, incluyendo el teclado de la cabaña (40827) y el código del disco duro (211012)."
+        },
+        {
+          "question": "¿Se puede jugar a On Thin Ice gratis?",
+          "answer": "Sí, On Thin Ice se puede descargar y jugar gratis dentro de Adventure Escape Mysteries en iOS, Android y PC, con estrellas opcionales para pistas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar On Thin Ice?",
+      "description": "Desde la primera escena del crimen hasta el enfrentamiento final, nuestra wiki comunitaria te acompaña con guías completas paso a paso.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar a On Thin Ice"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar al juego",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas recomendadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles en esta sección."
+  },
+  "footer": {
+    "aboutTitle": "On Thin Ice Wiki",
+    "about": "On Thin Ice Wiki es un centro independiente de guías creado por fans con rutas de progreso, recorridos completos, mecánicas y conocimientos esenciales para jugadores novatos y veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 On Thin Ice Wiki. No afiliado con los creadores o desarrolladores del juego.",
+    "description": "Wiki completa de fans y centro de guías para On Thin Ice.",
+    "playGame": "Jugar a On Thin Ice",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Herramientas del juego",
+    "beginnerGuide": "Guía paso a paso",
+    "raceGuides": "Soluciones de acertijos",
+    "bossGuides": "Guías de capítulos",
+    "buildGuide": "Mecánicas del juego",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  },
+  "guide": {
+    "meta": {
+      "title": "Guía completa y estrategias de On Thin Ice | On Thin Ice Wiki",
+      "description": "Recorridos exhaustivos y guías estratégicas de resolución de acertijos para On Thin Ice en todos los capítulos de investigación."
+    },
+    "overviewTitle": "Guía paso a paso y tutoriales",
+    "overviewDescription": "Recorridos exhaustivos y guías estratégicas de resolución de acertijos para On Thin Ice en todos los capítulos de investigación.",
+    "guidesTitle": "Guías paso a paso"
+  },
+  "puzzles": {
+    "meta": {
+      "title": "Soluciones de acertijos y códigos de taquillas de On Thin Ice | On Thin Ice Wiki",
+      "description": "Soluciones paso a paso de acertijos, combinaciones de cajas fuertes, puzles de ascensor y códigos de taquillas para On Thin Ice."
+    },
+    "overviewTitle": "Soluciones de acertijos y códigos",
+    "overviewDescription": "Soluciones paso a paso de acertijos, combinaciones de cajas fuertes, puzles de ascensor y códigos de taquillas para On Thin Ice.",
+    "guidesTitle": "Guías de acertijos"
+  },
+  "chapters": {
+    "meta": {
+      "title": "Capítulos y progreso de la historia de On Thin Ice | On Thin Ice Wiki",
+      "description": "Desglose detallado capítulo a capítulo, hitos de investigación y actos de la historia en On Thin Ice."
+    },
+    "overviewTitle": "Progreso de capítulos",
+    "overviewDescription": "Desglose detallado capítulo a capítulo, hitos de investigación y actos de la historia en On Thin Ice.",
+    "guidesTitle": "Guías de capítulos"
+  },
+  "game": {
+    "meta": {
+      "title": "Visión general y características de On Thin Ice | On Thin Ice Wiki",
+      "description": "Conoce las mecánicas de juego de On Thin Ice, el trasfondo de la serie Adventure Escape Mysteries y la jugabilidad general."
+    },
+    "overviewTitle": "Visión general y mecánicas",
+    "overviewDescription": "Conoce las mecánicas de juego de On Thin Ice, el trasfondo de la serie Adventure Escape Mysteries y la jugabilidad general.",
+    "guidesTitle": "Guías del juego"
+  },
+  "reviews": {
+    "meta": {
+      "title": "Trama, finales y análisis de On Thin Ice | On Thin Ice Wiki",
+      "description": "Explora el argumento, la explicación de los finales, resúmenes de la trama y reseñas críticas sobre On Thin Ice."
+    },
+    "overviewTitle": "Reseñas y análisis de la trama",
+    "overviewDescription": "Explora el argumento, la explicación de los finales, resúmenes de la trama y reseñas críticas sobre On Thin Ice.",
+    "guidesTitle": "Artículos de reseñas"
+  },
+  "media": {
+    "meta": {
+      "title": "Personajes, avances y medios de On Thin Ice | On Thin Ice Wiki",
+      "description": "Perfiles de personajes, tráileres oficiales, vídeos de juego y debates comunitarios de On Thin Ice."
+    },
+    "overviewTitle": "Medios y comunidad",
+    "overviewDescription": "Perfiles de personajes, tráileres oficiales, vídeos de juego y debates comunitarios de On Thin Ice.",
+    "guidesTitle": "Artículos de medios"
+  }
+}

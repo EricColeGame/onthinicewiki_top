@@ -255,14 +255,38 @@ const GROUP_TITLES_JA: Record<string, string> = {
   media: "メディア",
 };
 
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guía",
+  puzzles: "Acertijos",
+  chapters: "Capítulos",
+  game: "Juego",
+  reviews: "Reseñas",
+  media: "Medios",
+};
+
+// 德语分组标题映射
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Leitfaden",
+  puzzles: "Rätsel",
+  chapters: "Kapitel",
+  game: "Spiel",
+  reviews: "Bewertungen",
+  media: "Medien",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  de: GROUP_TITLES_DE,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Visión general",
+  de: "Übersicht",
 };
 
 // 分组排序顺序
