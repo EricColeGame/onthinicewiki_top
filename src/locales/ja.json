@@ -1,1 +1,447 @@
-{}
+{
+  "site": {
+    "name": "On Thin Ice Wiki",
+    "shortName": "On Thin Ice",
+    "tagline": "完全攻略・ヒント・チャプター解説・謎解き手順",
+    "description": "On Thin Ice Wikiでは、ゲームプレイ攻略、初心者向けヒント、謎解きの手順、最新アップデート情報など、プレイヤーに役立つリソースをお届けします。",
+    "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのための情報サイト。"
+  },
+  "nav": {
+    "guide": "攻略",
+    "puzzles": "謎解き",
+    "chapters": "チャプター",
+    "game": "ゲーム",
+    "reviews": "レビュー",
+    "media": "メディア"
+  },
+  "home": {
+    "meta": {
+      "title": "On Thin Ice Wiki - 攻略・ヒント・謎解きガイド",
+      "description": "On Thin Ice Wikiでは、チャプター攻略チャート、金庫やロッカーの暗証番号、謎解き手順、初心者ガイドなど役立つ情報を網羅しています。"
+    },
+    "hero": {
+      "eyebrow": "極寒ミステリーアドベンチャー Wiki",
+      "title": "On Thin Ice Wiki",
+      "description": "『Adventure Escape: On Thin Ice』のチャプター攻略、初心者向けガイド、謎解きの暗証番号、最新情報を網羅した総合ファンWikiです。",
+      "stats": [
+        "総閲覧数",
+        "アイテム情報",
+        "暗証番号・コード",
+        "最新情報"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "攻略チャート",
+      "tertiaryCta": "暗証番号一覧",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "onthinicewiki 攻略の第一歩",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者向け基本ガイド",
+          "description": "現場調査、インベントリアイテムの調査・合成、論理的推理など『On Thin Ice』の基本操作と仕組みを学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "チャプター別攻略チャート",
+          "description": "全4チャプターにおよぶケイト・グレイ刑事の捜査手順を順を追って解説。犯罪シンジケートの陰謀を暴きましょう。"
+        },
+        {
+          "number": "3",
+          "title": "パズル＆暗証番号の解答",
+          "description": "スターを無駄に消費することなく、端末パスワード、ロッカー番号、配線パズルを素早く解く手順を解説します。"
+        },
+        {
+          "number": "4",
+          "title": "証拠品＆アイテム分析",
+          "description": "鑑識ツールの組み合わせと周囲の環境の手がかりを正確に調査し、隠されたすべての手がかりを見つけ出します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気のページ",
+      "title": "注目の攻略トピック",
+      "quickLinks": [
+        "チャプター1攻略",
+        "ロッカーの暗証番号",
+        "ハードドライブの暗号",
+        "エレベーターパズル"
+      ],
+      "cards": [
+        {
+          "badge": "攻略チャート",
+          "title": "チャプター1 攻略ガイド",
+          "description": "警察署の侵入捜査と雪山の山小屋での事件現場を完全攻略。",
+          "href": "/guide/on-thin-ice-chapter-1-walkthrough"
+        },
+        {
+          "badge": "攻略チャート",
+          "title": "チャプター2 エレベーターガイド",
+          "description": "ロビーボットの対話プロトコル回避とエレベーター配線回路パズルの解法。",
+          "href": "/puzzles/on-thin-ice-elevator-puzzle"
+        },
+        {
+          "badge": "暗証番号",
+          "title": "チャプター3 ロッカーの暗証番号",
+          "description": "警察留置エリアのロッカーを開ける正確な数字の組み合わせとアイテム手順。",
+          "href": "/puzzles/on-thin-ice-locker-code"
+        },
+        {
+          "badge": "暗証番号",
+          "title": "ハードドライブ暗号の解答",
+          "description": "容疑者ボードのカラーコードと6桁の復号コードの完全解説。",
+          "href": "/puzzles/on-thin-ice-hard-drive-code"
+        },
+        {
+          "badge": "攻略チャート",
+          "title": "チャプター2 攻略ガイド",
+          "description": "タワービルへ潜入し、交渉人サラ・スティコフスキーの行方を追跡。",
+          "href": "/guide/on-thin-ice-chapter-2-walkthrough"
+        },
+        {
+          "badge": "攻略チャート",
+          "title": "チャプター3 攻略ガイド",
+          "description": "警察署のハイテク保管庫を調査し、組織の内通者を特定。",
+          "href": "/guide/on-thin-ice-chapter-3-walkthrough"
+        },
+        {
+          "badge": "攻略チャート",
+          "title": "チャプター4 攻略ガイド",
+          "description": "シンジケートの黒幕と対峙し、極寒の最終試練を突破。",
+          "href": "/guide/on-thin-ice-chapter-4-walkthrough"
+        },
+        {
+          "badge": "謎解き",
+          "title": "氷の階段パズル",
+          "description": "凍りついた外階段の仕掛けと位置合わせパズルの完全攻略。",
+          "href": "/puzzles/on-thin-ice-ice-stairway-puzzle"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "onthinicewiki とは？",
+      "paragraphs": [
+        "『On Thin Ice』は、ケイト・グレイ刑事とマーフィー刑事が危険なサイバー犯罪シンジケートに立ち向かう、緊張感あふれる本格推理＆パズルアドベンチャーです。猛吹雪に閉ざされた極寒の現場を調査し、疑わしい関係者を尋問し、厳重なセキュリティシステムを突破していきます。",
+        "On Thin Ice Wiki (onthinicewiki) では、チャプターごとの完全攻略チャート、検証済みのキーパッドコード、詳細な論理パズル解説、鑑識テクニックなど、プレイヤーがゲームをクリアするためのあらゆるリソースを提供しています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Haiku Games"
+        },
+        {
+          "label": "対応機種",
+          "value": "iOS / Android / PC"
+        },
+        {
+          "label": "ジャンル",
+          "value": "推理・脱出パズルアドベンチャー"
+        },
+        {
+          "label": "チャプター数",
+          "value": "全4チャプター"
+        },
+        {
+          "label": "主人公",
+          "value": "ケイト・グレイ刑事"
+        },
+        {
+          "label": "パズル数",
+          "value": "30以上の独自パズル"
+        },
+        {
+          "label": "評価",
+          "value": "4.8 / 5.0"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "onthinicewiki を探索",
+      "description": "事件現場の徹底調査、暗証番号、アイテム活用法、コミュニティ情報まで、onthinicewikiでゲームのすべてをマスターしましょう。",
+      "modules": [
+        {
+          "name": "onthinicewiki 初心者ガイド",
+          "description": "基本操作、探索のコツ、ゲームの進め方など、初めてプレイする方が知っておくべき重要事項を解説します。",
+          "href": "/guide/on-thin-ice-chapter-1-walkthrough",
+          "order": 1,
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ケイトのオフィスを調査し、施錠された警察端末のロックを解除"
+            },
+            {
+              "label": "2",
+              "detail": "UVライトや指紋採取キットなど必須の鑑識用具を入手"
+            },
+            {
+              "label": "3",
+              "detail": "ハックソーが発見された雪山の山小屋の現場を検証"
+            },
+            {
+              "label": "4",
+              "detail": "複数の手がかりを照合し、ヒントなしで暗号金庫を解錠"
+            }
+          ]
+        },
+        {
+          "name": "onthinicewiki ゲームシステムガイド",
+          "description": "アイテムの組み合わせやパズルの仕組み、謎解きの論理的アプローチなど、ゲームを進める上で役立つ実践的テクニックを解説します。",
+          "href": "/guide/on-thin-ice-guide",
+          "order": 2,
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "鑑識調査",
+              "detail": "所持品アイテムを組み合わせて隠された生体・電子証拠を発見"
+            },
+            {
+              "label": "論理的推理",
+              "detail": "パスワードを推測する前に容疑者ボードと色分けファイルを分析"
+            },
+            {
+              "label": "回路バイパス",
+              "detail": "電源ラインを繋ぎ替え、社内警備ロボットのセンサーを無効化"
+            }
+          ]
+        },
+        {
+          "name": "onthinicewiki 暗証番号＆コード",
+          "description": "ゲーム内の金庫、端末、ロッカーの暗証番号やパスコードの最新検証一覧です。",
+          "href": "/puzzles/on-thin-ice-locker-code",
+          "order": 3,
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "211012",
+              "detail": "容疑者ボードから導き出されるチャプター3ハードドライブ復号コード",
+              "badge": "確認済み"
+            },
+            {
+              "label": "5831",
+              "detail": "警察留置室ロッカーのキーパッド暗証番号",
+              "badge": "確認済み"
+            },
+            {
+              "label": "LOBBYBOT",
+              "detail": "オフィスタワーのエレベーターセキュリティ認証シーケンス",
+              "badge": "有効"
+            }
+          ]
+        },
+        {
+          "name": "onthinicewiki アップデート情報",
+          "description": "ゲームの配信履歴、新機能、パッチ修正、改善点などの最新情報をまとめています。",
+          "href": "/game/on-thin-ice-steam",
+          "order": 4,
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "配信開始",
+              "detail": "ケイト・グレイ刑事の冬の事件を描く全4チャプターが正式リリース"
+            },
+            {
+              "label": "パッチ",
+              "detail": "難関スライダーパズルおよび回路パズルのタッチ操作精度が向上"
+            },
+            {
+              "label": "PC版対応",
+              "detail": "Adventure Escape Mysteries 内でのワイド画面表示と操作に対応"
+            }
+          ]
+        },
+        {
+          "name": "onthinicewiki ヒント＆小技",
+          "description": "探索で見落としやすいポイントや、スターを節約しながら自力で解くための実践的なアドバイスです。",
+          "href": "/puzzles/on-thin-ice-puzzle",
+          "order": 5,
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "拡大調査",
+              "detail": "画面の隅々までタップして隠されたアイテムやスイッチを見逃さない"
+            },
+            {
+              "label": "スター節約",
+              "detail": "安易にスキップせず論理的な手がかりを見直してスターを節約"
+            },
+            {
+              "label": "アイテム分解",
+              "detail": "インベントリ内の複合アイテムを分解して必要な部品を取り出す"
+            }
+          ]
+        },
+        {
+          "name": "onthinicewiki 重要アイテムガイド",
+          "description": "事件解決に欠かせないキーアイテムや重要ツールの用途と入手場所をまとめています。",
+          "href": "/game/on-thin-ice-ae-mysteries",
+          "order": 6,
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "UVライト＆証拠ドライブ — メインストーリー進行に必須の最重要鑑識装備"
+            },
+            {
+              "label": "A",
+              "detail": "キーカード＆マルチツール — 施錠されたドアや配電盤を開ける基本ツール"
+            },
+            {
+              "label": "B",
+              "detail": "銅線＆バッテリー — ロボットをショートさせるなど特定の場面で使う部品"
+            },
+            {
+              "label": "C",
+              "detail": "メモの切れ端 — 事件の背景やシンジケートの動機を知るための手がかり"
+            }
+          ]
+        },
+        {
+          "name": "onthinicewiki コミュニティ",
+          "description": "世界中のプレイヤーが集まるコミュニティや公式SNSのリンク一覧です。",
+          "href": "/media/on-thin-ice-reddit",
+          "order": 7,
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reddit",
+              "detail": "r/AdventureEscape で事件の考察や謎解きの質問・攻略情報に参加"
+            },
+            {
+              "label": "Discord",
+              "detail": "ファンコミュニティでリアルタイムにヒントをもらったり推理を共有"
+            },
+            {
+              "label": "Haiku公式",
+              "detail": "Haiku Gamesの公式発表、開発秘話、次回作の情報をチェック"
+            }
+          ]
+        },
+        {
+          "name": "onthinicewiki よくある質問 (FAQ)",
+          "description": "プレイ環境、チャプター数、パズルのスキップ機能など、初心者からよく寄せられる疑問に回答します。",
+          "href": "/game/on-thin-ice-haiku-games",
+          "order": 8,
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "FAQ-01",
+              "detail": "On Thin Iceは何チャプターありますか？ — 本編は全4チャプターで構成されています。",
+              "badge": "基本情報"
+            },
+            {
+              "label": "FAQ-02",
+              "detail": "パズルはスキップできますか？ — 集めたスターを使用することでスキップ可能です。",
+              "badge": "ゲーム性"
+            },
+            {
+              "label": "FAQ-03",
+              "detail": "どこで遊べますか？ — モバイル・PCの『Adventure Escape Mysteries』内でプレイできます。",
+              "badge": "プラットフォーム"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "onthinicewiki に関するよくある質問と回答をまとめました。",
+      "items": [
+        {
+          "question": "onthinicewiki とは何ですか？",
+          "answer": "On Thin Ice Wiki (onthinicewiki) は、Haiku Games の脱出推理アドベンチャー『On Thin Ice』のチャプター攻略、パズル解答、暗証番号、お役立ちヒントをまとめた総合ガイドサイトです。"
+        },
+        {
+          "question": "onthinicewiki でパズルの答えを確認できますか？",
+          "answer": "はい。チャプター3のロッカー暗証番号やハードドライブの復号コードなど、すべてのキーパッド番号とパズルの解法を手順付きで掲載しています。"
+        },
+        {
+          "question": "onthinicewiki ではいくつのチャプターをカバーしていますか？",
+          "answer": "ケイト・グレイ刑事の捜査を描いた全4チャプターすべてを網羅し、各シーンごとの詳細な攻略チャートを用意しています。"
+        },
+        {
+          "question": "エレベーターパズルの解き方も掲載されていますか？",
+          "answer": "はい。チャプター2のロビーボットとの会話選択肢、金庫ダイヤル、エレベーター配線回路パズルの解き方を分かりやすく図解付きで解説しています。"
+        },
+        {
+          "question": "onthinicewiki は無料で利用できますか？",
+          "answer": "はい。On Thin Ice Wiki (onthinicewiki) のすべての攻略記事、パズル解答、ヒント集は完全無料でいつでもご覧いただけます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "On Thin Ice を完全制覇しましょう",
+      "description": "最初の現場検証から最後の難関パズルまで、コミュニティWikiが無料かつ最新の攻略情報であなたをサポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "On Thin Ice をプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "activeCodes": "暗証番号・コード",
+    "updated": "更新日",
+    "viewAllCodes": "コード一覧を見る",
+    "playOnRoblox": "ゲームをプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在準備中です。しばらくしてからご確認ください。"
+  },
+  "footer": {
+    "aboutTitle": "On Thin Ice Wiki",
+    "about": "On Thin Ice Wiki は、初心者から上級者まで役立つ攻略チャート、パズル解答、ゲームの仕組みをまとめた非公式ファンコミュニティサイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "攻略ガイド",
+    "legal": "利用規約・ポリシー",
+    "copyright": "2026 On Thin Ice Wiki. ゲームの開発元・権利者とは一切関係ありません。",
+    "description": "On Thin Ice の完全ファンWiki＆攻略ハブ。",
+    "playGame": "On Thin Ice をプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "ゲームツール",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "walkthroughGuide": "攻略チャート",
+    "puzzlesGuide": "パズル解答",
+    "chaptersGuide": "全チャプター"
+  },
+  "guide": {
+    "overviewTitle": "On Thin Ice 攻略チャート＆ガイド",
+    "overviewDescription": "『On Thin Ice』のチャプター別完全攻略、初心者向け戦略、全謎解きの解答手順を詳しく解説。"
+  },
+  "puzzles": {
+    "overviewTitle": "On Thin Ice パズル・暗証番号の解答",
+    "overviewDescription": "『On Thin Ice』のロッカー暗証番号、エレベーター配線回路、ハードドライブ暗号解読など、すべてのパズル解答集。"
+  },
+  "chapters": {
+    "overviewTitle": "On Thin Ice チャプター一覧＆エピソード解説",
+    "overviewDescription": "『On Thin Ice』の全4チャプターのストーリー進行、捜査ポイント、エピソード別の詳細攻略。"
+  },
+  "game": {
+    "overviewTitle": "On Thin Ice ゲーム情報＆システム解説",
+    "overviewDescription": "Haiku Gamesによる開発背景、脱出ミステリーの基本システム、捜査メカニクスの完全解説。"
+  },
+  "reviews": {
+    "overviewTitle": "On Thin Ice レビュー・評価＆結末の考察",
+    "overviewDescription": "『Adventure Escape: On Thin Ice』の詳細レビュー、ストーリー総括、登場人物の正体、エンディングの徹底考察。"
+  },
+  "media": {
+    "overviewTitle": "On Thin Ice メディア・予告編＆コミュニティ",
+    "overviewDescription": "公式動画トレーラー、キャラクター紹介、プレイ動画、リリース情報、コミュニティディスカッションリンク。"
+  }
+}
