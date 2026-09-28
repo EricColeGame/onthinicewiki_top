@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "puzzles": "Puzzles",
+    "chapters": "Chapters",
+    "game": "Game",
+    "reviews": "Reviews",
+    "media": "Media"
   },
   "home": {
     "meta": {
@@ -415,7 +421,30 @@
       "secondary": "Play On Thin Ice"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "On Thin Ice Guides",
+    "overviewDescription": "Full On Thin Ice walkthroughs, beginner tips, and chapter-by-chapter strategy so you can keep Kate ahead of every twist."
+  },
+  "puzzles": {
+    "overviewTitle": "On Thin Ice Puzzles",
+    "overviewDescription": "Step-by-step On Thin Ice puzzle solutions, from the elevator and locker codes to the ice stairway and triangulate riddles."
+  },
+  "chapters": {
+    "overviewTitle": "On Thin Ice Chapters",
+    "overviewDescription": "Browse every On Thin Ice chapter and episode hub with the scenes, clues, and decisions that shape each part of the story."
+  },
+  "game": {
+    "overviewTitle": "On Thin Ice Game",
+    "overviewDescription": "Learn what On Thin Ice is, who made it, where to play, and how it fits into the Adventure Escape Mysteries lineup."
+  },
+  "reviews": {
+    "overviewTitle": "On Thin Ice Reviews",
+    "overviewDescription": "On Thin Ice reviews, plot summaries, and ending explanations that unpack the story and its biggest reveals."
+  },
+  "media": {
+    "overviewTitle": "On Thin Ice Media",
+    "overviewDescription": "On Thin Ice trailers, gameplay footage, release date details, character spotlights, and community discussion."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -446,9 +475,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Game Tools",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Game Mechanics",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Walkthroughs",
+    "puzzleGuides": "Puzzle Solutions",
+    "chapterGuides": "Chapter Walkthroughs",
+    "reviewGuides": "Reviews & Endings",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
