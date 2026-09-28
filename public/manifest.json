@@ -1,21 +1,28 @@
 {
+  "id": "/",
   "name": "On Thin Ice Wiki",
   "short_name": "On Thin Ice",
   "description": "Complete On Thin Ice Wiki covering gameplay guides, beginner tips, mechanics, updates, and useful resources for players.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "any",
+  "lang": "en",
+  "categories": ["games", "entertainment"],
   "background_color": "#0d0d0d",
   "theme_color": "#1d9ec9",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
