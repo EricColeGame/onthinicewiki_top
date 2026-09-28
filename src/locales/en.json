@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your On Thin Ice Journey",
+      "title": "Your On Thin Ice Wiki Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to Adventure Escape Mysteries? Learn how the point-and-click loop works, how to combine items, and how to clear Chapter 1 without burning hint stars."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "All Puzzle Codes",
+          "description": "Every keypad, safe, and locker code in On Thin Ice, from the 9416 floorboard safe to the 40242 detention locker, with the clue logic behind each solution."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Puzzle Solutions",
+          "description": "Step-by-step help for sliding tile grids, circuit boards, triangulation safes, and the ice stairway so no frozen puzzle stalls your investigation."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in On Thin Ice."
+          "title": "Item Locations",
+          "description": "Track every key item in On Thin Ice, including the crowbar, wire, hand sanitizer, and brass key, and see exactly where each one is hidden."
         }
       ]
     },
@@ -66,237 +66,317 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Chapter Walkthroughs",
+        "Puzzle Solutions",
+        "All Codes",
+        "Item Locations"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "On Thin Ice Game Guide",
+          "description": "Everything you need to start the Kate Gray case, from the precinct breach to the cabin investigation.",
+          "href": "/game/on-thin-ice-game"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "All Puzzle Codes",
+          "description": "Keypad, safe, and locker solutions including 9416, 5397, 211012, and 40242.",
+          "href": "/puzzles/on-thin-ice-puzzle"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Full Walkthrough",
+          "description": "Step-by-step solutions for every chapter without spending a single hint star.",
+          "href": "/guide/on-thin-ice-walkthrough"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Chapter 1 Walkthrough",
+          "description": "Crack the precinct terminal, the sliding puzzles, and Hacksaw's hidden hard drive.",
+          "href": "/guide/on-thin-ice-chapter-1-walkthrough"
+        },
+        {
+          "badge": "New",
+          "title": "Locker Code Solution",
+          "description": "The 40242 detention locker code and the visitor-rule logic behind every digit.",
+          "href": "/puzzles/on-thin-ice-locker-code"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Gameplay Guide",
+          "description": "How examining, combining items, and circuit puzzles drive the whole case.",
+          "href": "/media/on-thin-ice-gameplay"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Ending Explained",
+          "description": "A full breakdown of the On Thin Ice finale and how the case is resolved.",
+          "href": "/reviews/on-thin-ice-ending-explained"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Trailers & Media",
+          "description": "Watch the On Thin Ice trailer and gameplay clips before you start the case.",
+          "href": "/media/on-thin-ice-trailer"
         }
       ]
     },
     "aboutGame": {
       "title": "What is On Thin Ice?",
       "paragraphs": [
-        "On Thin Ice is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "On Thin Ice is a point-and-click detective mystery from Haiku Games and an entry in the long-running Adventure Escape Mysteries series. Players take the role of Detective Kate Gray alongside her partner Murphy, whose sushi dinner is cut short when a ransomware gang cripples the precinct and a blizzard seals off the city.",
+        "Across the case you search frozen crime scenes, repair sabotaged electronics, and crack layered ciphers by combining items and cross-referencing clues found in other rooms. This On Thin Ice Wiki collects every walkthrough, puzzle solution, and code so you can finish the investigation without spending a single hint star."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Haiku Games"
+        },
+        {
+          "label": "Series",
+          "value": "Adventure Escape"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Mobile"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Point-and-Click Mystery"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Lead Character",
+          "value": "Detective Kate Gray"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Setting",
+          "value": "Frozen city & cabin"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore On Thin Ice Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every On Thin Ice guide in one place: beginner tips, the full walkthrough, puzzle codes, item locations, and answers to the questions players ask most.",
       "modules": [
         {
           "order": 1,
-          "name": "On Thin Ice Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/on-thin-ice-codes",
-          "displayType": "code-box",
+          "name": "On Thin Ice Wiki Beginner Guide",
+          "description": "This module explains the basic gameplay loop, how item combination works, and the first steps every new player should take in Chapter 1.",
+          "href": "/guide/on-thin-ice-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Start at the precinct and clear the ransomware terminal to open up the investigation."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Tap every hotspot with the magnifier so no clue is missed before you leave a scene."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Pick up items as soon as they appear; Kate's inventory is the key to every locked door."
+            },
+            {
+              "label": "4",
+              "detail": "Combine related items in the inventory bar to build tools the game never hands you directly."
+            },
+            {
+              "label": "5",
+              "detail": "Read the visitor rules, notes, and posters closely; most codes are written into the environment."
+            },
+            {
+              "label": "6",
+              "detail": "Save your hint stars for late-case puzzles and follow our walkthrough when you get stuck."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/on-thin-ice-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "On Thin Ice Wiki Gameplay Guide",
+          "description": "This module covers the core mechanics of On Thin Ice, from examining frozen crime scenes to repairing sabotaged electronics and managing the inventory.",
+          "href": "/game/on-thin-ice-game",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Examine",
+              "detail": "Tap each object with the magnifier; hidden clues stay invisible until you inspect them closely."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Inventory",
+              "detail": "Collect every item you can reach and combine tools in the bar to unlock new actions."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Puzzles",
+              "detail": "Solve sliding tiles, circuit paths, and color-coded safes by matching clues found elsewhere."
+            },
+            {
+              "label": "Chapters",
+              "detail": "Progress is chapter-based, so finish every task in a scene before moving on."
+            },
+            {
+              "label": "Hints",
+              "detail": "Hint stars are limited; spend them only when a puzzle chain truly blocks you."
+            },
+            {
+              "label": "Clues",
+              "detail": "Cross-reference nicknames, photos, and notices to turn scattered details into codes."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/on-thin-ice-tier-list",
-          "displayType": "tier-grid",
+          "name": "On Thin Ice Wiki Codes",
+          "description": "This module collects every passcode, safe combination, and keypad solution in On Thin Ice, together with the clue trail that reveals each one.",
+          "href": "/puzzles/on-thin-ice-puzzle",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "9416",
+              "detail": "Chapter 1 floorboard safe hidden under the cabin rug, solved from Hacksaw's notes."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "5397",
+              "detail": "Dan's computer PIN, read from the escape room, snowboard, sushi, and robot photos."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "211012",
+              "detail": "Hard drive code from the suspect board: Blue 21, Red 10, and Green 12."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "40242",
+              "detail": "Chapter 3 detention locker code counting hands, items, shirts, shoes, and mouths."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/on-thin-ice-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "On Thin Ice Wiki Updates",
+          "description": "This module follows On Thin Ice release news, platform details, and chapter content so returning players can see what is available.",
+          "href": "/media/on-thin-ice-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Release",
+              "detail": "On Thin Ice is a Kate Gray entry in the Adventure Escape Mysteries catalog."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Episodes",
+              "detail": "The case unfolds across sequential chapters that unlock as you complete each scene."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Media",
+              "detail": "Trailers, gameplay clips, and walkthrough videos are collected for each chapter."
+            },
+            {
+              "label": "Replays",
+              "detail": "Chapter select lets returning players revisit earlier scenes to recover missed items."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/on-thin-ice-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "On Thin Ice Wiki Tips and Tricks",
+          "description": "This module ranks the most useful On Thin Ice tips, from scene-clearing habits to the puzzle shortcuts that save the most time.",
+          "href": "/guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Clear every hotspot with the magnifier before leaving a scene; missed clues are the top reason puzzles stall."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Combine items early and often; many tools only exist once you merge two objects in the inventory bar."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Note the nicknames, photos, and rules you find; several codes are assembled from details in other rooms."
+            },
+            {
+              "label": "C",
+              "detail": "Save hint stars for multi-step chains and use a walkthrough for sliding tile and circuit puzzles."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/on-thin-ice-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "On Thin Ice Wiki Items Guide",
+          "description": "This module catalogs the key items Kate collects in On Thin Ice and explains exactly what each one unlocks.",
+          "href": "/puzzles",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Crowbar",
+              "detail": "Recovered from the burnt car wreck and used to pry open the jammed vehicle door."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Wire",
+              "detail": "Taken from beneath the fallen rules board and used to lift Jacob's keyring unseen."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Sanitizer",
+              "detail": "Cleans the grime off the detention locker keypad so the five-digit code can be entered."
+            },
+            {
+              "label": "Brass Key",
+              "detail": "Hidden in a secret pocket in Dan's belt and used to unlock the office closet."
+            },
+            {
+              "label": "Lockpin Gun",
+              "detail": "Pulled from the 9416 floorboard safe alongside Hacksaw's handwritten letter."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "On Thin Ice Wiki Community",
+          "description": "This module points to the places where On Thin Ice players share solutions, endings, and fan theories.",
+          "href": "/media",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Videos",
+              "detail": "Watch chapter walkthroughs and puzzle clips before spending hint stars."
+            },
+            {
+              "label": "Forums",
+              "detail": "Compare ending explanations and item locations with other players."
+            },
+            {
+              "label": "Fan Wiki",
+              "detail": "Browse community-maintained notes on characters, chapters, and hidden clues."
+            },
+            {
+              "label": "Reviews",
+              "detail": "Read player reviews and story breakdowns for the full Kate Gray case."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "On Thin Ice Wiki FAQ",
+          "description": "This module answers the questions On Thin Ice players ask most, from how the case begins to where to find each puzzle code.",
+          "href": "/reviews",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Start",
+              "detail": "Begin with Chapter 1 at the precinct and follow the story into the frozen cabin."
+            },
+            {
+              "label": "Codes",
+              "detail": "Keypad answers live in the Codes module, including 9416 and 40242."
+            },
+            {
+              "label": "Stuck",
+              "detail": "Use the walkthrough pages for step-by-step solutions to every major puzzle."
+            },
+            {
+              "label": "Ending",
+              "detail": "Story breakdowns and ending explanations are collected in the reviews section."
             }
           ]
         }
@@ -308,23 +388,23 @@
       "items": [
         {
           "question": "What is On Thin Ice?",
-          "answer": "On Thin Ice is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "On Thin Ice is a point-and-click detective mystery from Haiku Games and part of the Adventure Escape Mysteries series, starring Detective Kate Gray and her partner Murphy as they race a ransomware gang through a blizzard."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which chapter should I start with?",
+          "answer": "Start with Chapter 1 at the precinct, then follow the trail to Hacksaw's cabin. Our On Thin Ice Wiki walkthrough covers every chapter in order so you always know the next step."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where do I find On Thin Ice codes?",
+          "answer": "The Codes module lists every keypad and safe solution, including the 9416 floorboard safe and the 40242 detention locker, along with the clue logic behind each answer."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can I play On Thin Ice for free?",
+          "answer": "Yes. Adventure Escape Mysteries titles, including On Thin Ice, are free to play on mobile, with optional hint purchases if you would rather not solve a puzzle yourself."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What should I do if I get stuck in On Thin Ice?",
+          "answer": "Check the puzzle guide and walkthrough pages first; they break down sliding tiles, circuit boards, and ciphers step by step so you can keep your hint stars for later."
         }
       ]
     },
