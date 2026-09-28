@@ -1,1 +1,484 @@
-{}
+{
+  "site": {
+    "name": "On Thin Ice Wiki",
+    "shortName": "On Thin Ice",
+    "tagline": "完全ガイド・ヒント・攻略チャート・メカニクス",
+    "description": "On Thin Ice Wikiでは、ゲームプレイガイド、初心者向けのヒント、メカニクス、アップデート、そしてプレイヤーの理解を助ける役立つ情報を紹介しています。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーによって、プレイヤーのために作られています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "puzzles": "パズル",
+    "chapters": "チャプター",
+    "game": "ゲーム",
+    "reviews": "レビュー",
+    "media": "メディア"
+  },
+  "home": {
+    "meta": {
+      "title": "On Thin Ice Wiki - ガイド・ヒント・ゲームプレイ",
+      "description": "On Thin Ice Wikiでは、ゲームプレイガイド、初心者向けのヒント、メカニクス、アップデート、そしてプレイヤーの理解を助ける役立つ情報を紹介しています。"
+    },
+    "hero": {
+      "eyebrow": "氷のアドベンチャーゲーム攻略ウィキ",
+      "title": "On Thin Ice Wiki",
+      "description": "ゲームプレイガイド、初心者向けのヒント、メカニクス、アップデート、プレイヤーに必要な重要情報を網羅したOn Thin Ice Wikiです。",
+      "stats": [
+        "総訪問数",
+        "入手可能アイテム",
+        "有効なコード",
+        "毎日更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "ゲームガイド",
+      "tertiaryCta": "有効なコード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "On Thin Ice Wikiの旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Adventure Escape Mysteriesは初めてですか？ポイント＆クリックの仕組み、アイテムの組み合わせ方、ヒントスターを無駄にせずチャプター1をクリアする方法を学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "全パズルコード",
+          "description": "On Thin Iceに登場するすべてのキーパッド、金庫、ロッカーのコードを掲載。床板の金庫の9416から拘置所ロッカーの40242まで、各解答の手がかりの論理も解説します。"
+        },
+        {
+          "number": "3",
+          "title": "パズル攻略",
+          "description": "スライドタイル、回路基板、三角測量の金庫、氷の階段などを段階的に解説し、凍ったパズルで捜査が止まらないようにします。"
+        },
+        {
+          "number": "4",
+          "title": "アイテムの場所",
+          "description": "バール、ワイヤー、手指消毒剤、真鍮の鍵など、On Thin Iceの重要アイテムをすべて追跡し、それぞれの隠し場所を正確に紹介します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "チャプター攻略",
+        "パズル攻略",
+        "全コード",
+        "アイテムの場所"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "On Thin Ice ゲームガイド",
+          "description": "署内への侵入から山小屋の捜査まで、ケイト・グレイの事件を始めるために必要なすべて。",
+          "href": "/game/on-thin-ice-game"
+        },
+        {
+          "badge": "更新済み",
+          "title": "全パズルコード",
+          "description": "9416、5397、211012、40242を含むキーパッド、金庫、ロッカーの解答。",
+          "href": "/puzzles/on-thin-ice-puzzle"
+        },
+        {
+          "badge": "人気",
+          "title": "完全攻略チャート",
+          "description": "ヒントスターを1つも使わずに全チャプターを段階的に攻略。",
+          "href": "/guide/on-thin-ice-walkthrough"
+        },
+        {
+          "badge": "人気",
+          "title": "チャプター1 攻略",
+          "description": "署内の端末、スライドパズル、ハックソーの隠しハードドライブを解き明かす。",
+          "href": "/guide/on-thin-ice-chapter-1-walkthrough"
+        },
+        {
+          "badge": "新着",
+          "title": "ロッカーコードの解答",
+          "description": "拘置所ロッカーの40242コードと、各桁の背後にある面会規則の論理。",
+          "href": "/puzzles/on-thin-ice-locker-code"
+        },
+        {
+          "badge": "人気",
+          "title": "ゲームプレイガイド",
+          "description": "調査、アイテムの組み合わせ、回路パズルが事件全体をどう進めるかを解説。",
+          "href": "/media/on-thin-ice-gameplay"
+        },
+        {
+          "badge": "新着",
+          "title": "エンディング解説",
+          "description": "On Thin Iceのフィナーレと事件の解決方法を徹底的に分析。",
+          "href": "/reviews/on-thin-ice-ending-explained"
+        },
+        {
+          "badge": "新着",
+          "title": "トレーラー＆メディア",
+          "description": "事件を始める前にOn Thin Iceのトレーラーとゲームプレイ映像をチェック。",
+          "href": "/media/on-thin-ice-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "On Thin Iceとは？",
+      "paragraphs": [
+        "On Thin Iceは、Haiku Gamesによるポイント＆クリックの探偵ミステリーで、長寿シリーズAdventure Escape Mysteriesの一作です。プレイヤーはケイト・グレイ刑事と相棒のマーフィーを操り、寿司ディナーの途中でランサムウェア集団が署を機能不全に陥らせ、吹雪が街を封鎖する事件に挑みます。",
+        "事件を通して、凍りついた犯行現場を捜索し、妨害された電子機器を修理し、アイテムを組み合わせたり他の部屋で見つけた手がかりを照合したりして、幾重にも重なった暗号を解読していきます。このOn Thin Ice Wikiは、ヒントスターを1つも使わずに捜査を終えられるよう、すべての攻略、パズル解答、コードをまとめています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Haiku Games"
+        },
+        {
+          "label": "シリーズ",
+          "value": "Adventure Escape"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "モバイル"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ポイント＆クリックミステリー"
+        },
+        {
+          "label": "主人公",
+          "value": "ケイト・グレイ刑事"
+        },
+        {
+          "label": "舞台",
+          "value": "凍てつく街と山小屋"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "On Thin Ice Wikiを探索",
+      "description": "初心者向けのヒント、完全攻略、パズルコード、アイテムの場所、プレイヤーが最もよく尋ねる質問への回答を1か所にまとめました。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "On Thin Ice Wiki 初心者ガイド",
+          "description": "このモジュールでは、基本的なゲームプレイループ、アイテムの組み合わせの仕組み、そして新規プレイヤーがチャプター1で最初に取るべき手順を解説します。",
+          "href": "/guide/on-thin-ice-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "署から始めてランサムウェア端末をクリアし、捜査を進められるようにしましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "場面を離れる前に、虫眼鏡で全てのホットスポットをタップして手がかりを逃さないようにしましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "アイテムが現れたらすぐに拾いましょう。ケイトのインベントリがすべての鍵のかかった扉を開く鍵です。"
+            },
+            {
+              "label": "4",
+              "detail": "インベントリバーで関連するアイテムを組み合わせ、ゲームが直接渡さない道具を作りましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "面会規則、メモ、ポスターをよく読みましょう。ほとんどのコードは環境の中に書かれています。"
+            },
+            {
+              "label": "6",
+              "detail": "ヒントスターは終盤のパズル用に取っておき、行き詰まったら当サイトの攻略に従いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "On Thin Ice Wiki ゲームプレイガイド",
+          "description": "このモジュールでは、凍りついた犯行現場の調査から、妨害された電子機器の修理、インベントリ管理まで、On Thin Iceの基本メカニクスを扱います。",
+          "href": "/game/on-thin-ice-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "調査",
+              "detail": "虫眼鏡で各オブジェクトをタップしましょう。隠された手がかりは、よく調べるまで見えません。"
+            },
+            {
+              "label": "インベントリ",
+              "detail": "手の届くアイテムをすべて集め、バーで道具を組み合わせて新しい行動を解放しましょう。"
+            },
+            {
+              "label": "パズル",
+              "detail": "他の場所で見つけた手がかりを照合し、スライドタイル、回路経路、色分けされた金庫を解きましょう。"
+            },
+            {
+              "label": "チャプター",
+              "detail": "進行はチャプター単位なので、次に進む前に場面内のタスクをすべて終えましょう。"
+            },
+            {
+              "label": "ヒント",
+              "detail": "ヒントスターは限られています。パズルの連鎖で本当に行き詰まった時だけ使いましょう。"
+            },
+            {
+              "label": "手がかり",
+              "detail": "ニックネーム、写真、通知を照合し、散らばった情報をコードに変えましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "On Thin Ice Wiki コード集",
+          "description": "このモジュールは、On Thin Iceのすべてのパスコード、金庫の組み合わせ、キーパッドの解答を、それぞれを導く手がかりの流れとともにまとめています。",
+          "href": "/puzzles/on-thin-ice-puzzle",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "9416",
+              "detail": "ハックソーのメモから解く、山小屋の敷物の下に隠されたチャプター1の床板金庫。"
+            },
+            {
+              "label": "5397",
+              "detail": "脱出ゲーム、スノーボード、寿司、ロボットの写真から読み取るダンのPCのPIN。"
+            },
+            {
+              "label": "211012",
+              "detail": "容疑者ボードからのハードドライブコード：青21、赤10、緑12。"
+            },
+            {
+              "label": "40242",
+              "detail": "手、アイテム、シャツ、靴、口を数えるチャプター3の拘置所ロッカーコード。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "On Thin Ice Wiki アップデート",
+          "description": "このモジュールは、On Thin Iceのリリース情報、プラットフォームの詳細、チャプター内容を追い、復帰プレイヤーが何が利用可能かを確認できるようにします。",
+          "href": "/media/on-thin-ice-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "リリース",
+              "detail": "On Thin Iceは、Adventure Escape Mysteriesカタログにおけるケイト・グレイ編です。"
+            },
+            {
+              "label": "エピソード",
+              "detail": "事件は、各場面をクリアするごとに解放される連続したチャプターで展開します。"
+            },
+            {
+              "label": "メディア",
+              "detail": "各チャプターのトレーラー、ゲームプレイ映像、攻略動画をまとめています。"
+            },
+            {
+              "label": "再プレイ",
+              "detail": "チャプター選択により、復帰プレイヤーは以前の場面を再訪して取り逃したアイテムを回収できます。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "On Thin Ice Wiki ヒントとコツ",
+          "description": "このモジュールは、場面を完全に調べる習慣から時間を最も節約できるパズルの近道まで、最も役立つOn Thin Iceのヒントをランク付けします。",
+          "href": "/guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "場面を離れる前に虫眼鏡で全てのホットスポットを調べましょう。手がかりの見落としはパズルが止まる最大の原因です。"
+            },
+            {
+              "label": "A",
+              "detail": "アイテムは早めに、そして頻繁に組み合わせましょう。インベントリバーで2つを統合して初めて生まれる道具も多くあります。"
+            },
+            {
+              "label": "B",
+              "detail": "見つけたニックネーム、写真、規則をメモしましょう。いくつかのコードは他の部屋の情報から組み立てられます。"
+            },
+            {
+              "label": "C",
+              "detail": "ヒントスターは多段階の連鎖用に取っておき、スライドタイルや回路パズルには攻略を使いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "On Thin Ice Wiki アイテムガイド",
+          "description": "このモジュールは、On Thin Iceでケイトが集める重要アイテムを一覧にし、それぞれが何を解放するかを正確に説明します。",
+          "href": "/puzzles",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "バール",
+              "detail": "焼けた車の残骸から回収し、詰まった車のドアをこじ開けるのに使用。"
+            },
+            {
+              "label": "ワイヤー",
+              "detail": "倒れた規則板の下から取り、ジェイコブのキーホルダーを気づかれずに引き上げるのに使用。"
+            },
+            {
+              "label": "消毒剤",
+              "detail": "拘置所ロッカーのキーパッドの汚れを落とし、5桁のコードを入力できるようにする。"
+            },
+            {
+              "label": "真鍮の鍵",
+              "detail": "ダンのベルトの秘密のポケットに隠されており、オフィスのクローゼットを解錠するのに使用。"
+            },
+            {
+              "label": "ロックピンガン",
+              "detail": "ハックソーの手書きの手紙とともに9416の床板金庫から取り出す。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "On Thin Ice Wiki コミュニティ",
+          "description": "このモジュールは、On Thin Iceのプレイヤーが解答、エンディング、ファンの考察を共有する場所を紹介します。",
+          "href": "/media",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "動画",
+              "detail": "ヒントスターを使う前に、チャプター攻略やパズル映像を視聴しましょう。"
+            },
+            {
+              "label": "フォーラム",
+              "detail": "他のプレイヤーとエンディングの解説やアイテムの場所を比較しましょう。"
+            },
+            {
+              "label": "ファンウィキ",
+              "detail": "キャラクター、チャプター、隠された手がかりについてコミュニティ管理のメモを閲覧しましょう。"
+            },
+            {
+              "label": "レビュー",
+              "detail": "ケイト・グレイ事件全体について、プレイヤーレビューと物語の分析を読みましょう。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "On Thin Ice Wiki FAQ",
+          "description": "このモジュールは、事件がどう始まるかから各パズルコードの場所まで、On Thin Iceのプレイヤーが最もよく尋ねる質問に答えます。",
+          "href": "/reviews",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "開始",
+              "detail": "署のチャプター1から始め、凍てつく山小屋へと物語を追いましょう。"
+            },
+            {
+              "label": "コード",
+              "detail": "キーパッドの答えはコード集モジュールにあり、9416や40242も含まれます。"
+            },
+            {
+              "label": "行き詰まり",
+              "detail": "主要なパズルすべての段階的な解答には攻略ページを使いましょう。"
+            },
+            {
+              "label": "エンディング",
+              "detail": "物語の分析とエンディングの解説はレビューセクションにまとめられています。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "On Thin Iceに関する最も一般的な質問への手早い回答。",
+      "items": [
+        {
+          "question": "On Thin Iceとは何ですか？",
+          "answer": "On Thin Iceは、Haiku Gamesによるポイント＆クリックの探偵ミステリーで、Adventure Escape Mysteriesシリーズの一部です。ケイト・グレイ刑事と相棒のマーフィーが、吹雪の中でランサムウェア集団と競い合います。"
+        },
+        {
+          "question": "どのチャプターから始めるべきですか？",
+          "answer": "署のチャプター1から始め、ハックソーの山小屋へと手がかりを追いましょう。On Thin Ice Wikiの攻略は全チャプターを順番に扱っているので、次の手順が常にわかります。"
+        },
+        {
+          "question": "On Thin Iceのコードはどこで見つけられますか？",
+          "answer": "コード集モジュールには、床板の金庫の9416や拘置所ロッカーの40242を含むすべてのキーパッドと金庫の解答が、それぞれの答えの背後にある手がかりの論理とともに掲載されています。"
+        },
+        {
+          "question": "On Thin Iceは無料でプレイできますか？",
+          "answer": "はい。On Thin Iceを含むAdventure Escape Mysteriesのタイトルは、モバイルで無料でプレイでき、自分でパズルを解きたくない場合の任意のヒント購入も用意されています。"
+        },
+        {
+          "question": "On Thin Iceで行き詰まったらどうすればいいですか？",
+          "answer": "まずパズルガイドと攻略ページを確認しましょう。スライドタイル、回路基板、暗号を段階的に解説しているので、ヒントスターを後まで取っておけます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "On Thin Iceを極める準備はできましたか？",
+      "description": "最初の一歩から上級の挑戦まで、当コミュニティウィキが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "On Thin Iceをプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "On Thin Ice ガイド",
+    "overviewDescription": "On Thin Iceの完全攻略、初心者向けのヒント、チャプターごとの戦略を掲載し、ケイトがすべての展開を先取りできるよう支援します。"
+  },
+  "puzzles": {
+    "overviewTitle": "On Thin Ice パズル",
+    "overviewDescription": "エレベーターやロッカーのコードから氷の階段や三角測量の謎まで、On Thin Iceのパズルを段階的に解説します。"
+  },
+  "chapters": {
+    "overviewTitle": "On Thin Ice チャプター",
+    "overviewDescription": "物語の各パートを形作る場面、手がかり、選択を、On Thin Iceの全チャプターとエピソードハブで確認できます。"
+  },
+  "game": {
+    "overviewTitle": "On Thin Ice ゲーム",
+    "overviewDescription": "On Thin Iceとは何か、誰が作ったか、どこでプレイできるか、Adventure Escape Mysteriesのラインナップでどう位置づけられるかを学びましょう。"
+  },
+  "reviews": {
+    "overviewTitle": "On Thin Ice レビュー",
+    "overviewDescription": "On Thin Iceのレビュー、あらすじ、エンディング解説で、物語とその最大の展開を解き明かします。"
+  },
+  "media": {
+    "overviewTitle": "On Thin Ice メディア",
+    "overviewDescription": "On Thin Iceのトレーラー、ゲームプレイ映像、リリース日情報、キャラクター特集、コミュニティの議論。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新済み",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだ利用可能なガイドはありません。後でもう一度ご確認ください！"
+  },
+  "footer": {
+    "aboutTitle": "On Thin Ice Wiki",
+    "about": "On Thin Ice Wikiは、進行ルート、攻略、メカニクス、必須のゲーム知識を網羅した独立系のファン制作ガイドハブで、新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 On Thin Ice Wiki. ゲームの制作者や開発者とは提携していません。",
+    "description": "On Thin Iceの完全なファンウィキ＆ガイドハブ。",
+    "playGame": "On Thin Iceをプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "ゲームツール",
+    "beginnerGuide": "初心者ガイド",
+    "puzzleGuides": "パズル攻略",
+    "chapterGuides": "チャプター攻略",
+    "reviewGuides": "レビュー＆エンディング",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

@@ -22,10 +22,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const messages = (await getMessages({ locale })) as { site?: { name?: string; description?: string } };
+  const siteName = messages.site?.name ?? siteConfig.name;
+  const siteDescription = messages.site?.description ?? siteConfig.description;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "onthinicewiki Wiki", template: "%s" },
-    description: "Complete onthinicewiki Wiki covering gameplay guides, beginner tips, mechanics, updates, and walkthroughs.",
+    title: { default: siteName, template: "%s" },
+    description: siteDescription,
     openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
     twitter: { card: "summary_large_image", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
